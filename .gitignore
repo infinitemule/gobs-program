@@ -1,0 +1,8 @@
+
+*.class
+*.swp
+
+.classpath
+.project
+
+java/target
