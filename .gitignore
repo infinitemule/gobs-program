@@ -1,8 +1,10 @@
 
 *.class
 *.swp
+*.log
 
 .classpath
 .project
+.settings
 
 java/target

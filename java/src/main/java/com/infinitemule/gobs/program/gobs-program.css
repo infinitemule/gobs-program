@@ -1,0 +1,12 @@
+
+#terminal .scroll-bar:vertical {
+  -fx-opacity: 0;
+  -fx-padding:-7;
+}
+
+#terminal {		
+	-fx-font: 24px sans-serif;
+	-fx-text-fill: #0f0; 
+	-fx-background-color: #000;
+	-fx-padding: 15px;
+}
